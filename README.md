@@ -1,2 +1,2 @@
 # SAML-Integrations
-A list of SAML integrations guides
+A list of SAML integration guides
